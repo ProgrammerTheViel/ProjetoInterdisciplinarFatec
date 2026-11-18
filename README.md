@@ -1,7 +1,5 @@
 # ProjetoInterdisciplinarFatec
 
-# O arquivo está zipado. baixe ele para visualizar o projeto
-
 # NutriQUACK
 
 Projeto de extensão desenvolvido no curso de Informática para Negócios da Fatec São José do Rio Preto.
